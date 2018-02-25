@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 35bfb946e3d1c4d9ba9b6393700b2563
+timeCreated: 1519578218
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Andina
+  fontNames:
+  - Andina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5992a4ccd88e45149518c4af281ff3e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
